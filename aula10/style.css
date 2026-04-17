@@ -1,0 +1,24 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1em;
+    background-color: darkgreen;
+}
+
+a {
+    background-color: brown;
+    color: aliceblue;
+}
+
+h1 {
+    background-color: brown;
+    color: azure;
+}
+
+h2 {
+    background-color: crimson;
+    color: beige;
+}
+
+p {
+    color: darkturquoise;
+}
